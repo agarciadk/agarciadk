@@ -21,7 +21,7 @@
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at agarciadk@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1Cs6zT0KJ_W-KAmU4BpHDt-iUJl8HcfmQ/view?usp=sharing) for more details about work experience.\
-💼 &nbsp;This is my [Portfolio](portfolio-agarciadk.vercel.app) to watch other projects that I've been working on. 
+💼 &nbsp;This is my [Portfolio](https://portfolio-agarciadk.vercel.app) to watch other projects that I've been working on. 
 
 
 <p align="center" width="300">
