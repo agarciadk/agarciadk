@@ -44,7 +44,7 @@ const alberto = {
 
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1HTRf7bGFgCc5DxZiM1g5oqQqDbs6H3GU/view?usp=sharing) for more details about work experience.\
-💼 &nbsp;This is my [Portfolio](https://portfolio-agarciadk.vercel.app) to watch other projects that I've been working on. 
+💼 &nbsp;This is my [Portfolio](https://gapaci.dev) to watch other projects that I've been working on. 
 
 
 <p align="center" width="300">
@@ -73,4 +73,4 @@ const alberto = {
 </p>
 
 <a href="https://www.linkedin.com/in/albertogarciadeparedes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:agarciadk@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:alberto@gapaci.dev"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
